@@ -1,0 +1,36 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    background-color: purple;
+}
+.container_main{
+    background-color: white;
+    width:90%;
+    margin-left: 65px;
+    margin-top: 25px;
+    /* padding: 50px; */
+    height: auto;
+    /* text-align: center; */
+}
+label{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    vertical-align: top;
+}
+.heading_form{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 12px;
+}
+input[type=submit]{
+    margin-left: 180px;
+    width: 150px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: purple;
+    color: white;
+    border: 1px solid purple;
+}
+p{
+    margin-left: -15px;
+}
